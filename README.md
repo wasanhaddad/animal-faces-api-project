@@ -89,7 +89,7 @@ uvicorn api.main:app --reload
 ### 4. Open the interactive API docs  
 FastAPI automatically generates Swagger UI:
 
-👉 http://127.0.0.1:8000/docs
+ http://127.0.0.1:8000/docs
 
 ---
 
